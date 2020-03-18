@@ -39,7 +39,6 @@ const Header = ({ siteTitle }) => (
                         alt="Level Up Tutorials Logo"
                     />
                     {siteTitle}
-                    <h1> check works2</h1>
                 </Link>
             </h1>
         </HeaderContainer>
